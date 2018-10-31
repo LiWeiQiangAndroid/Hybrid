@@ -1,3 +1,5 @@
+fork for https://github.com/yexiaochai/hybrid
+
 # Hybrid
 经过之前的简单Hybrid框的实现，现在正在形成一个通用的Hybrid平台，详情请看博客介绍，代码会持续更新<br/>
 Native Andriod代码由明月同学提供<br/>
